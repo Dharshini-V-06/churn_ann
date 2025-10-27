@@ -1,0 +1,16 @@
+# Ignore Python environments and libraries
+venv/
+env/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+
+# Ignore any DLLs or binaries
+*.dll
+*.exe
+*.pyd
+
+# Ignore Jupyter and logs
+*.ipynb_checkpoints/
+*.log
