@@ -9,6 +9,8 @@ It uses the **Churn_Modelling.csv** dataset and implements an **ANN** using **Te
 
 **Dataset link:** [Churn Dataset](https://www.kaggle.com/code/shrutimechlearn/deep-tutorial-1-ann-and-classification/input)
 
+**App link:** [Churn prediction](https://churnann-lcu8gk2nrjpuwv7n8xd8hh.streamlit.app/)
+
 
 **Dataset:** `Churn_Modelling.csv`
 **Rows:** 10,000
